@@ -1,0 +1,45 @@
+.container{
+    max-width:350px;
+    margin: 10vh 10vh 10vh 10vh;
+    border: double;
+    background: linear-gradient(to right, #a8a5a7, #af7c9b, #c26191);
+   
+}
+
+#display{
+    text-align: right;
+    height: 50px;
+    line-height: 60px;
+    padding: 10px 8px;
+    font-size: 5px;
+    border: double;
+}
+
+
+.buttons{
+    display: grid;
+    border-bottom: 1px solid #999;
+    border-left: 1px solid#999;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    border: double;
+}
+
+.buttons > div {
+    border-top: 1px solid #999;
+    border-right: 1px solid#999;
+border-radius: 50%;
+border-color: aqua;
+}
+
+.button {
+   
+    line-height: 100px;
+    text-align: center;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+#equal{
+    background-color: rgb(190, 190, 196);
+    padding: 10px 8px;
+}
