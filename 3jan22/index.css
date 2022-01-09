@@ -1,0 +1,11 @@
+h1,h2{
+    color:rgb(89, 6, 156);
+  
+}
+body,html{
+    background-image: "https://images.pexels.com/photos/248515/pexels-photo-248515.png?auto=compress&cs=tinysrgb&dpr=1&w=500";
+}
+
+$placeholder{
+    color:aqua;
+}

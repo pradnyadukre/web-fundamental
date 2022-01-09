@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  nav {
+    display: flex;
+    height: 50px;
+    background-color: #6a15da;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    position: fixed;
+    width: 100%;
+  }
+  nav:hover {
+    background-color: #38073d;
+  }
+  span {
+    margin: 20px;
+  }
+  button {
+    border: none;
+    background-color: #7f14e4;
+    color: white;
+    height: 30px;
+    padding: 7px;
+    border-radius: 10px;
+  }
+  button:hover {
+    background-color: #ff5151;
+  }
+  button:active {
+    background-color: cornflowerblue;
+  }
+  
+section {
+ 
+  height: 100vh;
+  background-color: lightskyblue;
+}
+
+img{
+  display:block;
+  margin-left: auto;
+  margin-right:auto;
+  width:50%
+  border:1px solid #add;
+  border-radius: 4px;
+  padding: 5px;
+  width: 500;
+}
