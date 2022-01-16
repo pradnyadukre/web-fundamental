@@ -1,0 +1,40 @@
+#outer{
+    margin-top: 100px;
+    margin-left: 450px;
+    padding-bottom: 30px;
+    border: 3px solid;
+    width: 400px;
+    border-radius: 20px;
+    background-image: linear-gradient(#104274,#ec7373);
+}
+#outp{
+    border: 3px solid;
+    height: 70px;
+    width: 385px;
+    margin-left: 5px;
+    margin-top: 5px;
+    border-radius: 20px;
+    text-align: right;
+    background-color: rgb(61, 33, 33);
+}
+#output{
+    color: wheat;
+    
+}
+button{
+    background-color: lightseagreen;
+    margin-left: 29px;
+    width: 60px;
+    height: 45px;
+    margin-top: 10px;
+    border-radius: 20%;
+    font-weight: bold;
+}
+button:hover{
+    color: grey;
+    background-color: orangered;
+}
+#back{
+    margin-top: 25px;
+    margin-left: 306px;
+}
