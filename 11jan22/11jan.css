@@ -1,0 +1,32 @@
+h3{
+    color : rgb(0, 255, 213);
+}
+h1{
+    color: rgb(3, 3, 24);
+    background-color: aqua;
+    border-radius: 10px;
+    margin: 0%;
+    padding: 7px;
+    top : 00px;
+    position: sticky;
+}
+body{
+    text-align: center;
+    background-color: rgb(27, 141, 235);
+    margin-bottom: 50px;
+}
+#outer{
+    margin-left: 320px ; 
+    height : 300px;
+    width  : 200px;
+    border : 2px solid;
+    border-radius: 10px;
+    overflow-y:scroll;
+}
+
+button{
+    display: block;
+    width: 200px;
+   background-color: aquamarine;
+    border-radius: 10px;
+} 
