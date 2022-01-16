@@ -1,7 +1,7 @@
-h3{
+h1{
     color : rgb(0, 255, 213);
 }
-h1{
+h3{
     color: rgb(3, 3, 24);
     background-color: aqua;
     border-radius: 10px;
@@ -16,7 +16,7 @@ body{
     margin-bottom: 50px;
 }
 #outer{
-    margin-left: 320px ; 
+    margin-left: 525px ; 
     height : 300px;
     width  : 200px;
     border : 2px solid;
